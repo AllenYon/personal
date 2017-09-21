@@ -5,6 +5,6 @@
 * [软件开发](ruan-jian-she-ji.md)
 * [投资理财](tou-zi-li-cai.md)
   * [股票交易](tou-zi-li-cai/gu-piao-jiao-yi.md)
-* [旅游](lv-you.md)
+* [生活](lv-you.md)
   * [巴厘岛](lv-you/ba-li-dao.md)
 
