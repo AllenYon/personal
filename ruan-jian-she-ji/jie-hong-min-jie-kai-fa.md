@@ -16,18 +16,7 @@
 - 项目产出确定-》项目风险变化
 
 
-
-#### 成员
-
+成员：
 PO(Product owner)，Scrum master， Team member等。
 
-#### 故事会
-
-
-#### Planning
-
-#### 3）开发过程
-
-#### 4）Codereview
-
-#### 5）Retro
+![流程](https://s3.mogucdn.com/mlcdn/c024f5/170922_8866k2kh39ah8hikgfldefdiag1ec_1054x522.png)
