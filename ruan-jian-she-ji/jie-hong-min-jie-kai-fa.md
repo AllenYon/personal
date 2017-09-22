@@ -4,7 +4,10 @@
 
 敏捷开发更强调的是解决软件开发过程中遇到问题的思路，采用什么解决方案或工具可以各种各样。
 
+
+
 敏捷开发大体可以分为 故事会，planning，开发过程，codereview，retro等环节，一般以2周为一个周期，仅可能在两周周期内交付产品的新特性，持续让客户感受到产品的变化。
+![流程](https://s3.mogucdn.com/mlcdn/c024f5/170922_8866k2kh39ah8hikgfldefdiag1ec_1054x522.png)
 
 敏捷开发工具推荐可以尝试腾讯的tapd\(www.tapd.cn \) 或者 JIRA的敏捷看板，只有白板，小卡片也是可以做起来的。
 
@@ -18,5 +21,3 @@
 
 成员：
 PO(Product owner)，Scrum master， Team member等。
-
-![流程](https://s3.mogucdn.com/mlcdn/c024f5/170922_8866k2kh39ah8hikgfldefdiag1ec_1054x522.png)
